@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @superschooler
 - 👀 I’m interested in changing career paths into technology
-- 🌱 I’m currently learning how to use GitHub... Gotta start somewhere!
+- 🌱 I’m currently learning web development - HTML, CSS, & JS
 - 💞️ I’m looking to collaborate on anything - let me know what I can help with
 - 📫 How to reach me ➡️ brian@brianschooler.com
 
