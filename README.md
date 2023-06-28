@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Brian<br>👀 I’m interested in changing career paths from mortgages to web development<br>🧠 I’m currently refreshing my knowledge of web development - HTML, CSS, & JS<br>🤝 I’m always interested in collaborating on projects and learning from one another!<br>📩 How to reach me ➡️ brian@brianschooler.com
+👋 Hi, I’m Brian<br>👀 I’m interested in changing career paths from mortgages to analytics<br>🧠 I’m currently working on learning SQL<br>🤝 I’m always interested in collaborating on projects and learning from one another!<br>📩 How to reach me ➡️ brian@brianschooler.com
 
 
 ## 🌐 Socials:
